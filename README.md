@@ -25,7 +25,7 @@
 
 
 
-📫 [LinkedIn](https://www.linkedin.com/in/seu-usuario) 
+📫 [LinkedIn]https://www.linkedin.com/in/luisanalista/
 
 
 
