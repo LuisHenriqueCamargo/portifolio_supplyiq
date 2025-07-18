@@ -1,14 +1,3 @@
-import smtplib
-from email.mime.text import MIMEText
-import pandas as pd
-from sqlalchemy import create_engine
-
-# === CONFIGURAÇÕES GERAIS ===
-remetente = "lh.santos2013@gmail.com"  # <- Seu Gmail
-senha = "0000000000" 
-limite_dias = 2
-caminho_emails = r"F:\\Abastecimento_Supply\\data\\emails_alerta.xlsx"
-
 # === CONEXÃO COM SQL SERVER ===
 engine = create_engine(
     "mssql+pyodbc://@localhost\\SQLEXPRESS/supplyiq"
