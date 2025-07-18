@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 
 # === CONFIGURAÇÕES GERAIS ===
 remetente = "lh.santos2013@gmail.com"  # <- Seu Gmail
-senha = "mklj gwkf wauu uzjn"          # <- Senha de app gerada no Gmail
+senha = "0000000000" 
 limite_dias = 2
 caminho_emails = r"F:\\Abastecimento_Supply\\data\\emails_alerta.xlsx"
 
