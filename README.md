@@ -23,7 +23,7 @@
 ## Autor
 👤 Luis Camargo - Especialista em Dados e Supply Chain 
 
-<img width="1354" height="694" alt="image" src="https://github.com/user-attachments/assets/ba123b89-5b1d-4917-8507-9870f6ad5cd9" />
+
 
 📫 [LinkedIn](https://www.linkedin.com/in/seu-usuario) 
 
