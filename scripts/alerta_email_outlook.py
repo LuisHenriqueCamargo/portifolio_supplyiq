@@ -1,21 +1,3 @@
-import smtplib
-from email.mime.text import MIMEText
-import pandas as pd
-from sqlalchemy import create_engine
-
-# === CONFIGURAÇÕES ===
-remetente = "emial@email" 
-senha = "000000" 
-limite_dias = 3  # Critério de alerta (dias de autonomia)
-
-# Caminho da planilha de contatos
-caminho_emails = r"F:\\Abastecimento_Supply\\data\\emails_alerta.xlsx"
-
-# Conexão com o SQL Server (ajuste conforme necessário)
-engine = create_engine(
-    "mssql+pyodbc://@localhost\\SQLEXPRESS/supplyiq"
-    "?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
-)
 
 # === CONSULTA AO BANCO DE DADOS ===
 query = f"SELECT * FROM vw_autonomia_tanques WHERE dias_restantes < {limite_dias}"
