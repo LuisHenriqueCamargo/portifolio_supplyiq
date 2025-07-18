@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Painel Operacional de Autonomia e Abastecimento - SupplyIQ
 
 📊 Este painel foi desenvolvido para monitorar em tempo real os níveis de tanques de abastecimento, calcular autonomia em dias, emitir alertas por e-mail e fornecer insights visuais para tomada de decisão.
@@ -9,6 +8,16 @@
 - Alertas automáticos via Outlook e Gmail
 - Visualização em Power BI com indicadores críticos
 - Integração com SQL Server
+## Imagens do Projeto 
+
+
+
+<img width="759" height="417" alt="image" src="https://github.com/user-attachments/assets/a47b309f-26d5-467f-8d25-1552be685cbf" />
+
+
+
+
+
 
 ## Tecnologias
 - Python (SQLAlchemy, Pandas, SMTP)
