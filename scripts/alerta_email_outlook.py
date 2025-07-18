@@ -4,8 +4,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # === CONFIGURAÇÕES ===
-remetente = "seuemail@empresa.com"  # Substitua pelo e-mail corporativo
-senha = "SUA_SENHA"  # Pode ser a senha real ou senha de app (se necessário)
+remetente = "emial@email" 
+senha = "000000" 
 limite_dias = 3  # Critério de alerta (dias de autonomia)
 
 # Caminho da planilha de contatos
