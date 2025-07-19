@@ -3,7 +3,7 @@
 📊 Este painel foi desenvolvido para monitorar em tempo real os níveis de tanques de abastecimento, calcular autonomia em dias, emitir alertas por e-mail e fornecer insights visuais para tomada de decisão.
 
 ## Funcionalidades
-- Extração e Atualziação do banco de dados automatizado 
+- Extração e Atualziação do banco de dados automatizado/Excel 
 - Cálculo de autonomia com base em consumo médio
 - Alertas automáticos via Outlook e Gmai/teste
 - Visualização em Power BI com indicadores críticos
