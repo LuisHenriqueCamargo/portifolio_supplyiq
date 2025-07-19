@@ -8,7 +8,7 @@
 - Alertas automáticos via Outlook e Gmai/teste
 - Visualização em Power BI com indicadores críticos
 - Integração com SQL Server/local
-- Dax avançado para alertas de tamques com cores dinamicas 
+- Dax avançado para alertas de tanques com cores dinamicas 
 ## Imagens do Projeto 
 <img width="617" height="224" alt="image" src="https://github.com/user-attachments/assets/77a27a43-9cfc-40c4-9cec-2966922dbe24" /> 
 <img width="787" height="176" alt="image" src="https://github.com/user-attachments/assets/c5710967-3d6f-4171-91d3-a19aa5f5a149" /> 
