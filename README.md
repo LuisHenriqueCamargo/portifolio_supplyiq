@@ -3,11 +3,11 @@
 📊 Este painel foi desenvolvido para monitorar em tempo real os níveis de tanques de abastecimento, calcular autonomia em dias, emitir alertas por e-mail e fornecer insights visuais para tomada de decisão.
 
 ## Funcionalidades
-
+- Extração e Atualziação do banco de dados automatizado 
 - Cálculo de autonomia com base em consumo médio
-- Alertas automáticos via Outlook e Gmail
+- Alertas automáticos via Outlook e Gmai/teste
 - Visualização em Power BI com indicadores críticos
-- Integração com SQL Server
+- Integração com SQL Server/local 
 ## Imagens do Projeto 
 <img width="617" height="224" alt="image" src="https://github.com/user-attachments/assets/77a27a43-9cfc-40c4-9cec-2966922dbe24" /> 
 <img width="787" height="176" alt="image" src="https://github.com/user-attachments/assets/c5710967-3d6f-4171-91d3-a19aa5f5a149" /> 
