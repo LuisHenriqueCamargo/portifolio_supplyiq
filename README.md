@@ -44,8 +44,7 @@ O projeto combina **engenharia de dados, automação e visualização executiva*
 ├── supplyiq_dashboard.pbix  → Painel Power BI (visualização executiva)
 ├── database/                → SQL Server Express ou Excel local
 └── docs/                    → Prints e documentação do projeto
-📷 Visual do Dashboard
-<img width="617" alt="image" src="https://github.com/user-attachments/assets/77a27a43-9cfc-40c4-9cec-2966922dbe24" /> <img width="787" alt="image" src="https://github.com/user-attachments/assets/c5710967-3d6f-4171-91d3-a19aa5f5a149" /> <img width="1011" alt="image" src="https://github.com/user-attachments/assets/48ef97d0-0947-443a-8a27-d534192ef3cf" /> <img width="634" alt="image" src="https://github.com/user-attachments/assets/28fbe430-ca50-48fc-afbf-77d6adbb57ee" /> <img width="759" alt="image" src="https://github.com/user-attachments/assets/a47b309f-26d5-467f-8d25-1552be685cbf" /> 
+
 
 💡 Benefícios Estratégicos
 ✅ Previsão de reabastecimento baseada em consumo real
