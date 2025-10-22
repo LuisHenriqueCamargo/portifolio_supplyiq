@@ -48,7 +48,19 @@ O projeto combina **engenharia de dados, automação e visualização executiva*
 ## 📷 Imagem do Indicador  
 Visão Macro
 
-<img width="1316" height="730" alt="image" src="https://github.com/user-attachments/assets/491921e1-5759-430c-9b79-bdeecc328b70" />
+
+
+
+
+
+<img width="1321" height="740" alt="image" src="https://github.com/user-attachments/assets/b2cab61d-37ca-466a-836d-8e64fe090b15" />
+
+
+
+
+
+
+
 
 Visão Raptura em Alerta
 
