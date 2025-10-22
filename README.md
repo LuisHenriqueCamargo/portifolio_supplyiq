@@ -106,6 +106,6 @@ Especialista em Dados e Supply Chain • Business Intelligence Logístico
 
 📧 especialista.luiscamargo@gmail.com  
 📱 +55 11 94088-0735  
-🌐 [LinkedIn](https://www.linkedin.com/in/luis-henrique-camargo)  
+🌐 [LinkedIn](https://www.linkedin.com/in/luisespecialista/)  
 
 ---
