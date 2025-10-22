@@ -44,4 +44,68 @@ Por meio da integração entre engenharia de dados e inteligência analítica, o
 ├── supplyiq_dashboard.pbix  → Painel Power BI com indicadores executivos
 ├── database/                → Base SQL Server Express / Excel
 └── docs/                    → Documentação e imagens de dashboards
+```
 
+---
+
+## 📊 **Visão Analítica**
+
+### 🔹 **Visão Geral do Painel**
+Indicadores macro de performance operacional — total de litros, autonomia média, tanques críticos e consumo por período.
+
+![Painel SupplyIQ - Visão Macro](https://github.com/user-attachments/assets/b2cab61d-37ca-466a-836d-8e64fe090b15)
+
+---
+
+### 🔹 **Ruptura em Estado de Alerta**
+Visualização dos tanques em alerta, destacando consumo elevado e necessidade de reabastecimento iminente.
+
+![Painel SupplyIQ - Alerta](https://github.com/user-attachments/assets/91414baa-884a-4b9d-a3b6-f5725d68fa0b)
+
+---
+
+### 🔹 **Ruptura Normal**
+Operação sob controle, com níveis de autonomia dentro dos parâmetros aceitáveis.
+
+![Painel SupplyIQ - Normal](https://github.com/user-attachments/assets/dc056bb2-76ac-4f73-8663-5dda2f19ea3e)
+
+---
+
+### 🔹 **Ruptura Crítica**
+Status crítico com risco de interrupção operacional e acionamento de alertas automáticos.
+
+![Painel SupplyIQ - Crítico](https://github.com/user-attachments/assets/c2e94420-e693-4e8a-a870-34af73b228a9)
+
+---
+
+## 💡 **Benefícios Estratégicos**
+
+✅ Antecipação de reabastecimento com base no consumo real  
+✅ Mitigação de riscos de ruptura e paradas operacionais  
+✅ Padronização e consolidação de dados de múltiplas fontes (SQL, Excel, API)  
+✅ Redução de tempo em rotinas manuais de controle  
+✅ Suporte à decisão executiva com indicadores visuais e preditivos  
+
+---
+
+## 🧠 **Aplicações Corporativas**
+
+O **SupplyIQ** pode ser adaptado para diferentes contextos operacionais:
+
+- Monitoramento de tanques, silos e reservatórios em tempo real  
+- Gestão de consumo e reabastecimento em plantas industriais  
+- Integração com sistemas ERP, SCADA e plataformas IoT via API REST  
+- Módulo analítico para **Torre de Controle Logístico**  
+
+---
+
+## 👨‍💼 **Autor**
+
+**Luis Henrique Camargo**  
+Especialista em Dados e Supply Chain • Business Intelligence Logístico  
+
+📧 especialista.luiscamargo@gmail.com  
+📱 +55 11 94088-0735  
+🌐 [LinkedIn](https://www.linkedin.com/in/luis-henrique-camargo)  
+
+---
